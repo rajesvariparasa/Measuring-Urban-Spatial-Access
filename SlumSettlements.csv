@@ -1,0 +1,396 @@
+s_id,s_nm,s_tenabili,s_wno,s_hh,s_pop,s_zno,s_addr,s_lat,s_lon
+S1-3-34,Periya Kasi Koil Kuppam,Tenable,3,430,1493,1,"Periya Kasi Koil Kuppam, Ward 3, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1987098,80.3178702
+S1-2-11,ChinnaKuppam,Untenable,2,239,786,1,"ChinnaKuppam, Ward 2, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.2074625,80.3227456
+S1-2-24,PeriyaKuppam,Untenable,2,280,918,1,"PeriyaKuppam, Ward 2, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.2121605,80.324166
+S1-2-21,KattuKuppam,Tenable,2,334,1225,1,"KattuKuppam, Ward 2, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.2186677,80.3192216
+S1-1-4,Nettukuppam,Untenable,1,403,1457,1,"Nettukuppam, Ward 1, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.2290209,80.3289701
+S1-5-63,Rajiv Gandhi Nagar,Tenable,5,147,574,1,"Rajiv Gandhi Nagar, Ward 5, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1835336,80.3080675
+S1-5-71,Bharath Nagar,Tenable,5,552,2284,1,"Bharath Nagar, Ward 5, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1844996,80.311213
+S1-4-50,Mullai Nagar,Tenable,4,100,383,1,"Mullai Nagar, Ward 4, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.184737,80.3033778
+S1-5-67,North Bharathiyar Nagar,Tenable,5,142,554,1,"North Bharathiyar Nagar, Ward 5, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1853709,80.3153915
+S1-5-70,Bharathiyar Nagar,Tenable,5,600,2261,1,"Bharathiyar Nagar, Ward 5, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1853709,80.3153915
+S1-4-38,Mahalakshmi Nagar,Tenable,4,99,367,1,"Mahalakshmi Nagar, Ward 4, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1856611,80.3042484
+S1-4-52,Bajanai Kovil Street,Tenable,4,359,1325,1,"Bajanai Kovil Street, Ward 4, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1916766,80.3072114
+S1-7-91,Karkil Nagar,Untenable,7,596,2279,1,"Karkil Nagar, Ward 7, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1690345,80.2919759
+S1-6-76,J J Nagar,Untenable,6,97,399,1,"J J Nagar, Ward 6, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1775246,80.2948772
+S2-16-13,Burma Nagar,Tenable,16,276,1027,2,"Burma Nagar, Ward 16, MANALI, Chennai, Tamil Nadu, India",13.1831187,80.2837607
+S1-6-74,Jai Hind Nagar,Untenable,6,102,416,1,"Jai Hind Nagar, Ward 6, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1834434,80.302159
+S2-16-15,"Sadayan Kuppam , St Colony",Tenable,16,40,136,2,"Sadayan Kuppam , St Colony, Ward 16, MANALI, Chennai, Tamil Nadu, India",13.1842451,80.2837727
+S1-4-43,Ernavoor,Tenable,4,178,616,1,"Ernavoor, Ward 4, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1895685,80.3039002
+S1-9-117,Pattinathar Koil,Tenable,9,928,3201,1,"Pattinathar Koil, Ward 9, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1629918,80.3048291
+S1-9-114,Appar Nagar,Tenable,9,279,770,1,"Appar Nagar, Ward 9, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1640671,80.308079
+S1-7-89,Nehru Nagar,Tenable,7,81,286,1,"Nehru Nagar, Ward 7, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1648588,80.2913625
+S1-8-108,"T S R Nagar , Ottaraivadai Street",Tenable,8,180,666,1,"T S R Nagar , Ottaraivadai Street, Ward 8, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1659149,80.305119
+S1-5-62,Thiru Nagar,Tenable,5,181,701,1,"Thiru Nagar, Ward 5, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1697161,80.3066861
+S1-5-61,Thiruvalluvar Nagar,Tenable,5,151,533,1,"Thiruvalluvar Nagar, Ward 5, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1769492,80.3094719
+S1-5-55,Sakthipuram,Tenable,5,185,707,1,"Sakthipuram, Ward 5, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1794308,80.3091237
+S1-5-56,Poompuhar Nagar,Tenable,5,197,753,1,"Poompuhar Nagar, Ward 5, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1813315,80.3075567
+S1-5-60,Dr.Ambedkar Nagar,Tenable,5,339,1198,1,"Dr.Ambedkar Nagar, Ward 5, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1823063,80.3075275
+S1-14-140,Thiyagarayapuram,Tenable,14,1317,4693,1,"Thiyagarayapuram, Ward 14, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1480724,80.2997212
+S1-11-127,Poongavanapuram,Tenable,11,488,1867,1,"Poongavanapuram, Ward 11, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1527116,80.3023221
+S3-29-53,Kakkanpuram,Tenable,29,72,319,3,"Kakkanpuram, Ward 29, MADHAVARAM, Chennai, Tamil Nadu, India",13.1516065,80.2614037
+S3-29-55,"Chinna Sekadu , Chandramman Koil",Tenable,29,50,206,3,"Chinna Sekadu , Chandramman Koil, Ward 29, MADHAVARAM, Chennai, Tamil Nadu, India",13.1605,80.2587034
+S3-28-51,Periya Sekkadu,Tenable,28,21,72,3,"Periya Sekkadu, Ward 28, MADHAVARAM, Chennai, Tamil Nadu, India",13.1618972,80.2509504
+S2-20-45,Chinnakannu Street,Tenable,20,19,70,2,"Chinnakannu Street, Ward 20, MANALI, Chennai, Tamil Nadu, India",13.1664375,80.2532644
+S2-20-41,Balaraman Street,Untenable,20,118,526,2,"Balaraman Street, Ward 20, MANALI, Chennai, Tamil Nadu, India",13.1686854,80.2536231
+S2-20-47,Rajiv Gandhi Street,Tenable,20,23,74,2,"Rajiv Gandhi Street, Ward 20, MANALI, Chennai, Tamil Nadu, India",13.1691983,80.2552951
+S2-18-34,SR.C.V.Raman Street,Tenable,18,54,200,2,"SR.C.V.Raman Street, Ward 18, MANALI, Chennai, Tamil Nadu, India",13.1693546,80.2623907
+S2-19-40,Periyamathur,Tenable,19,238,956,2,"Periyamathur, Ward 19, MANALI, Chennai, Tamil Nadu, India",13.1701327,80.245782
+S2-19-35,Omakulam,Tenable,19,64,231,2,"Omakulam, Ward 19, MANALI, Chennai, Tamil Nadu, India",13.1703701,80.2415787
+S2-20-46,M.G.R.Street,Tenable,20,21,76,2,"M.G.R.Street, Ward 20, MANALI, Chennai, Tamil Nadu, India",13.1722935,80.2557751
+S2-18-28,Ekambaram Street,Untenable,18,65,258,2,"Ekambaram Street, Ward 18, MANALI, Chennai, Tamil Nadu, India",13.1727755,80.2610868
+S2-18-33,CPCL Nagar,Tenable,18,361,1328,2,"CPCL Nagar, Ward 18, MANALI, Chennai, Tamil Nadu, India",13.1734585,80.2551319
+S2-18-30,Harikrishnapuram,Untenable,18,128,495,2,"Harikrishnapuram, Ward 18, MANALI, Chennai, Tamil Nadu, India",13.1744102,80.2614037
+S2-17-16,Kossapur Colony Area I,Tenable,17,188,678,2,"Kossapur Colony Area I, Ward 17, MANALI, Chennai, Tamil Nadu, India",13.184242,80.2365982
+S2-17-18,Kossapur Area II,Tenable,17,88,307,2,"Kossapur Area II, Ward 17, MANALI, Chennai, Tamil Nadu, India",13.184242,80.2365982
+S2-16-9,"Kanniyamman Pettai ,Colony",Tenable,16,126,460,2,"Kanniyamman Pettai ,Colony, Ward 16, MANALI, Chennai, Tamil Nadu, India",13.1948404,80.2551319
+S2-16-12,Kanniyamman pettai,Tenable,16,172,632,2,"Kanniyamman pettai, Ward 16, MANALI, Chennai, Tamil Nadu, India",13.1948404,80.2551319
+S2-17-22,Theeyambakkam,Tenable,17,89,324,2,"Theeyambakkam, Ward 17, MANALI, Chennai, Tamil Nadu, India",13.1966201,80.2350707
+S2-15-2,Old Napalayam,Tenable,15,325,1214,2,"Old Napalayam, Ward 15, MANALI, Chennai, Tamil Nadu, India",13.2258456,80.2735228
+S2-15-3,New Napalayam,Tenable,15,190,676,2,"New Napalayam, Ward 15, MANALI, Chennai, Tamil Nadu, India",13.2264835,80.2737295
+S3-25-17,Mathew Street,Tenable,25,85,232,3,"Mathew Street, Ward 25, MADHAVARAM, Chennai, Tamil Nadu, India",13.1523503,80.2079485
+S3-22-3,Kavangarai,Tenable,22,293,1148,3,"Kavangarai, Ward 22, MADHAVARAM, Chennai, Tamil Nadu, India",13.1705476,80.1954051
+S3-22-2,Kannappasamy Nagar,Tenable,22,357,1333,3,"Kannappasamy Nagar, Ward 22, MADHAVARAM, Chennai, Tamil Nadu, India",13.1718526,80.1944807
+S2-17-25,Ariyalur Gramam,Tenable,17,98,371,2,"Ariyalur Gramam, Ward 17, MANALI, Chennai, Tamil Nadu, India",13.1803135,80.229343
+S3-33-76,Ponniyamman Medu,Tenable,33,36,129,3,"Ponniyamman Medu, Ward 33, MADHAVARAM, Chennai, Tamil Nadu, India",13.1349662,80.2274201
+S3-31-66,Ambedkar Nagar,Tenable,31,384,1504,3,"Ambedkar Nagar, Ward 31, MADHAVARAM, Chennai, Tamil Nadu, India",13.1363254,80.2334578
+S3-33-83,G.N.T.Road,Tenable,33,80,280,3,"G.N.T.Road, Ward 33, MADHAVARAM, Chennai, Tamil Nadu, India",13.1381167,80.2290164
+S3-31-62,Udayar Thottam,Tenable,31,378,1455,3,"Udayar Thottam, Ward 31, MADHAVARAM, Chennai, Tamil Nadu, India",13.140254,80.2345711
+S3-31-57,Kannapiran street,Tenable,31,242,960,3,"Kannapiran street, Ward 31, MADHAVARAM, Chennai, Tamil Nadu, India",13.14118,80.2328613
+S3-26-46,Seethapathy Street,Tenable,26,64,222,3,"Seethapathy Street, Ward 26, MADHAVARAM, Chennai, Tamil Nadu, India",13.1482486,80.2285541
+S3-25-44,Sembiam Street,Tenable,25,39,94,3,"Sembiam Street, Ward 25, MADHAVARAM, Chennai, Tamil Nadu, India",13.141922,80.2056741
+S3-25-25,Thanthai Periyar Street,Tenable,25,7,15,3,"Thanthai Periyar Street, Ward 25, MADHAVARAM, Chennai, Tamil Nadu, India",13.1478289,80.2044919
+S3-31-58,Muthumariamman koil st,Tenable,31,62,237,3,"Muthumariamman koil st, Ward 31, MADHAVARAM, Chennai, Tamil Nadu, India",13.1390163,80.2356104
+S4-47-114,Meenambal Nagar,Tenable,47,1087,4255,4,"Meenambal Nagar, Ward 47, TONDIAR PET, Chennai, Tamil Nadu, India",13.1181232,80.2779533
+S4-43-88,New Amaranjipuram,Tenable,43,217,943,4,"New Amaranjipuram, Ward 43, TONDIAR PET, Chennai, Tamil Nadu, India",13.1237997,80.2927705
+S5-53-12,C.B.Road,Tenable,53,299,1346,5,"C.B.Road, Ward 53, ROYAPURAM, Chennai, Tamil Nadu, India",13.1084888,80.2722277
+S5-53-5,Canal Street,Tenable,53,451,1829,5,"Canal Street, Ward 53, ROYAPURAM, Chennai, Tamil Nadu, India",13.1089557,80.271529
+S5-53-11,Stanly Nagar,Tenable,53,675,2779,5,"Stanly Nagar, Ward 53, ROYAPURAM, Chennai, Tamil Nadu, India",13.1089835,80.2730763
+S4-47-125,Ambethkar nagar,Tenable,47,1127,4659,4,"Ambethkar nagar, Ward 47, TONDIAR PET, Chennai, Tamil Nadu, India",13.1139796,80.2742942
+S4-39-34,Desiya Nagar,Tenable,39,682,2693,4,"Desiya Nagar, Ward 39, TONDIAR PET, Chennai, Tamil Nadu, India",13.135416,80.293387
+S4-40-46,Sivagami Nagar,Tenable,40,329,1151,4,"Sivagami Nagar, Ward 40, TONDIAR PET, Chennai, Tamil Nadu, India",13.1367509,80.2924073
+S4-40-37,Jeeva Nagar,Tenable,40,891,3362,4,"Jeeva Nagar, Ward 40, TONDIAR PET, Chennai, Tamil Nadu, India",13.1373315,80.2889243
+S4-39-31,Cheriyan Nagar,Tenable,39,850,3304,4,"Cheriyan Nagar, Ward 39, TONDIAR PET, Chennai, Tamil Nadu, India",13.138163,80.297142
+S4-39-32,Ashok Nagar,Tenable,39,468,1585,4,"Ashok Nagar, Ward 39, TONDIAR PET, Chennai, Tamil Nadu, India",13.138163,80.297142
+S4-39-33,Dhanabal Nagar,Tenable,39,335,951,4,"Dhanabal Nagar, Ward 39, TONDIAR PET, Chennai, Tamil Nadu, India",13.138163,80.297142
+S4-40-40,V.O.C Nagar,Tenable,40,377,1330,4,"V.O.C Nagar, Ward 40, TONDIAR PET, Chennai, Tamil Nadu, India",13.1316738,80.2883267
+S4-40-38,Seniamman koil st,Tenable,40,419,1511,4,"Seniamman koil st, Ward 40, TONDIAR PET, Chennai, Tamil Nadu, India",13.1320109,80.2896323
+S4-41-65,Moopanar Nagar,Tenable,41,521,1784,4,"Moopanar Nagar, Ward 41, TONDIAR PET, Chennai, Tamil Nadu, India",13.1235131,80.2763873
+S4-41-60,Gopal Nagar,Tenable,41,240,974,4,"Gopal Nagar, Ward 41, TONDIAR PET, Chennai, Tamil Nadu, India",13.125457,80.2763844
+S4-41-73,Marimuthu Street,Tenable,41,195,535,4,"Marimuthu Street, Ward 41, TONDIAR PET, Chennai, Tamil Nadu, India",13.125479,80.2779515
+S4-41-64,Parthasarathy Street,Tenable,41,177,582,4,"Parthasarathy Street, Ward 41, TONDIAR PET, Chennai, Tamil Nadu, India",13.125572,80.2791434
+S4-41-72,Sivaji Nagar,Tenable,41,560,1800,4,"Sivaji Nagar, Ward 41, TONDIAR PET, Chennai, Tamil Nadu, India",13.1273832,80.2802162
+S4-38-27,Durgadevi Nagar,tenable,38,480,1954,4,"Durgadevi Nagar, Ward 38, TONDIAR PET, Chennai, Tamil Nadu, India",13.1287025,80.2774294
+S4-41-63,Ezil nagar,Tenable,41,720,2750,4,"Ezil nagar, Ward 41, TONDIAR PET, Chennai, Tamil Nadu, India",13.1299689,80.2732491
+S4-38-21,Nehru Nagar,Tenable,38,1387,5511,4,"Nehru Nagar, Ward 38, TONDIAR PET, Chennai, Tamil Nadu, India",13.1316542,80.2791104
+S4-38-25,Gandhi Nagar,Tenable,38,136,553,4,"Gandhi Nagar, Ward 38, TONDIAR PET, Chennai, Tamil Nadu, India",13.1316542,80.2791104
+S4-38-28,Sathri nagar,Tenable,38,228,952,4,"Sathri nagar, Ward 38, TONDIAR PET, Chennai, Tamil Nadu, India",13.1316542,80.2791104
+S4-38-29,Tamizhan nagar,Tenable,38,150,601,4,"Tamizhan nagar, Ward 38, TONDIAR PET, Chennai, Tamil Nadu, India",13.1316542,80.2791104
+S4-38-30,Karunanidhi Nagar,Tenable,38,814,3266,4,"Karunanidhi Nagar, Ward 38, TONDIAR PET, Chennai, Tamil Nadu, India",13.1361747,80.2798091
+S4-38-20,Vinobha nagar,Tenable,38,836,3146,4,"Vinobha nagar, Ward 38, TONDIAR PET, Chennai, Tamil Nadu, India",13.1362494,80.2791712
+S4-38-26,Nedunchezhiyan Nagar,Tenable,38,484,1850,4,"Nedunchezhiyan Nagar, Ward 38, TONDIAR PET, Chennai, Tamil Nadu, India",13.1391258,80.2798679
+S4-38-24,New Vinobha nagar,Tenable,38,112,456,4,"New Vinobha nagar, Ward 38, TONDIAR PET, Chennai, Tamil Nadu, India",13.139865,80.2786007
+S4-35-4,Erukkancherry,Tenable,35,162,662,4,"Erukkancherry, Ward 35, TONDIAR PET, Chennai, Tamil Nadu, India",13.1307574,80.2511813
+S4-43-95,Kasipuram,Tenable,43,146,608,4,"Kasipuram, Ward 43, TONDIAR PET, Chennai, Tamil Nadu, India",13.1293356,80.2941488
+S4-43-89,Surya Narayana chetty street,Tenable,43,338,1276,4,"Surya Narayana chetty street, Ward 43, TONDIAR PET, Chennai, Tamil Nadu, India",13.1306937,80.296135
+S4-43-93,Surya Narayana street,Tenable,43,29,120,4,"Surya Narayana street, Ward 43, TONDIAR PET, Chennai, Tamil Nadu, India",13.1306937,80.296135
+S3-33-81,Vasudevan Thottam,Tenable,33,62,224,3,"Vasudevan Thottam, Ward 33, MADHAVARAM, Chennai, Tamil Nadu, India",13.1324282,80.2313705
+S3-33-72,Nethaji Street,Tenable,33,20,66,3,"Nethaji Street, Ward 33, MADHAVARAM, Chennai, Tamil Nadu, India",13.1340591,80.2291404
+S3-33-71,Kanaga Chathiram,Tenable,33,21,78,3,"Kanaga Chathiram, Ward 33, MADHAVARAM, Chennai, Tamil Nadu, India",13.1340789,80.2314343
+S3-33-78,Vedachalam Street,Tenable,33,31,127,3,"Vedachalam Street, Ward 33, MADHAVARAM, Chennai, Tamil Nadu, India",13.1354049,80.2308941
+S10-128-9,Aranganathan Nagar,Tenable,128,183,772,10,"Aranganathan Nagar, Ward 128, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0488534,80.190645
+S6-72-33,Venkatesapuram New Colony,Tenable,72,170,744,6,"Venkatesapuram New Colony, Ward 72, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1071199,80.2624489
+S6-72-48,Kasturibai Colony B Block,Tenable,72,188,931,6,"Kasturibai Colony B Block, Ward 72, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.107806,80.2664556
+S6-72-47,Old Venkatesapuram,Tenable,72,175,751,6,"Old Venkatesapuram, Ward 72, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1093625,80.2652362
+S4-46-103,A.Kalyanapuram,Tenable,46,183,694,4,"A.Kalyanapuram, Ward 46, TONDIAR PET, Chennai, Tamil Nadu, India",13.1139794,80.2648878
+S4-46-106,B.Kalyanapuram,Tenable,46,867,3477,4,"B.Kalyanapuram, Ward 46, TONDIAR PET, Chennai, Tamil Nadu, India",13.1139794,80.2648878
+S4-46-108,Kennedy nagar,Tenable,46,322,1368,4,"Kennedy nagar, Ward 46, TONDIAR PET, Chennai, Tamil Nadu, India",13.1165957,80.2641616
+S4-46-111,Jonh Kennady Nagar,Tenable,46,67,278,4,"Jonh Kennady Nagar, Ward 46, TONDIAR PET, Chennai, Tamil Nadu, India",13.1165957,80.2641616
+S4-42-75,Rettakuzhai Street,Tenable,42,590,2234,4,"Rettakuzhai Street, Ward 42, TONDIAR PET, Chennai, Tamil Nadu, India",13.122074,80.284523
+S4-42-77,Moyar pasudeven st,Untenable,42,788,2618,4,"Moyar pasudeven st, Ward 42, TONDIAR PET, Chennai, Tamil Nadu, India",13.122074,80.284523
+S4-42-79,Thirunavkarasu thottam,Untenable,42,897,2818,4,"Thirunavkarasu thottam, Ward 42, TONDIAR PET, Chennai, Tamil Nadu, India",13.122074,80.284523
+S4-42-82,K.G.Garden,Untenable,42,299,1090,4,"K.G.Garden, Ward 42, TONDIAR PET, Chennai, Tamil Nadu, India",13.122074,80.284523
+S4-42-83,Appasamy Thottam,Untenable,42,503,1834,4,"Appasamy Thottam, Ward 42, TONDIAR PET, Chennai, Tamil Nadu, India",13.122074,80.284523
+S4-42-84,Veerakutty st,Tenable,42,1053,3801,4,"Veerakutty st, Ward 42, TONDIAR PET, Chennai, Tamil Nadu, India",13.122074,80.284523
+S5-50-2,Amman Koil Street,Tenable,50,283,1145,5,"Amman Koil Street, Ward 50, ROYAPURAM, Chennai, Tamil Nadu, India",13.1103026,80.2967387
+S5-50-3,Indira Nagar,UnTenable,50,110,416,5,"Indira Nagar, Ward 50, ROYAPURAM, Chennai, Tamil Nadu, India",13.1205485,80.2972833
+S5-53-21,Basin Bridge Road,Tenable,53,133,560,5,"Basin Bridge Road, Ward 53, ROYAPURAM, Chennai, Tamil Nadu, India",13.1039625,80.2738079
+S5-53-16,Chidambaram Nagar,Tenable,53,283,1124,5,"Chidambaram Nagar, Ward 53, ROYAPURAM, Chennai, Tamil Nadu, India",13.1057483,80.2732491
+S5-53-18,New Labour Lane,Tenable,53,263,1015,5,"New Labour Lane, Ward 53, ROYAPURAM, Chennai, Tamil Nadu, India",13.106015,80.2761233
+S5-53-15,Pensioners Lane,Tenable,53,343,1486,5,"Pensioners Lane, Ward 53, ROYAPURAM, Chennai, Tamil Nadu, India",13.108845,80.2799481
+S5-57-58,Jutkapuram,UnTenable,57,322,1427,5,"Jutkapuram, Ward 57, ROYAPURAM, Chennai, Tamil Nadu, India",13.089617,80.2751651
+S5-57-30,Adhi Andra Colony,UnTenable,57,98,441,5,"Adhi Andra Colony, Ward 57, ROYAPURAM, Chennai, Tamil Nadu, India",13.0931649,80.2748168
+S5-60-31,Adam Street,UnTenable,60,96,398,5,"Adam Street, Ward 60, ROYAPURAM, Chennai, Tamil Nadu, India",13.0993034,80.2922107
+S5-60-44,Angappan Street,Tenable,60,54,202,5,"Angappan Street, Ward 60, ROYAPURAM, Chennai, Tamil Nadu, India",13.0999365,80.2914589
+S5-56-26,Thiruvalluvar Nagar,UnTenable,56,247,1117,5,"Thiruvalluvar Nagar, Ward 56, ROYAPURAM, Chennai, Tamil Nadu, India",13.1024235,80.2889243
+S5-59-34,"Sathyavani Muthu Nagar , Huts",Tenable,59,169,606,5,"Sathyavani Muthu Nagar , Huts, Ward 59, ROYAPURAM, Chennai, Tamil Nadu, India",13.0786309,80.2765586
+S5-59-35,"Sathyavani Muthu Nagar , Bridge",UnTenable,59,260,854,5,"Sathyavani Muthu Nagar , Bridge, Ward 59, ROYAPURAM, Chennai, Tamil Nadu, India",13.0786309,80.2765586
+S5-59-36,Sathyavani Muthu Nagar,UnTenable,59,264,1014,5,"Sathyavani Muthu Nagar, Ward 59, ROYAPURAM, Chennai, Tamil Nadu, India",13.0786309,80.2765586
+S5-60-43,Sir Muthusamy Salai,UnTenable,60,253,969,5,"Sir Muthusamy Salai, Ward 60, ROYAPURAM, Chennai, Tamil Nadu, India",13.0790445,80.2820338
+S5-60-40,North Beach Road,Tenable,60,242,916,5,"North Beach Road, Ward 60, ROYAPURAM, Chennai, Tamil Nadu, India",13.0873776,80.2897473
+S5-60-38,Narayanappa Nayakar Street,Tenable,60,92,351,5,"Narayanappa Nayakar Street, Ward 60, ROYAPURAM, Chennai, Tamil Nadu, India",13.0969799,80.2913411
+S5-56-27,B.R.N Garden,UnTenable,56,203,955,5,"B.R.N Garden, Ward 56, ROYAPURAM, Chennai, Tamil Nadu, India",13.101256,80.286646
+S5-63-69,South Koovam River Road,tenable,63,35,135,5,"South Koovam River Road, Ward 63, ROYAPURAM, Chennai, Tamil Nadu, India",13.0673075,80.2647185
+S5-62-56,West Coovum River Road,UnTenable,62,76,258,5,"West Coovum River Road, Ward 62, ROYAPURAM, Chennai, Tamil Nadu, India",13.0721929,80.2682661
+S5-62-61,West Koovam Atru Salai,Untenable,62,393,1457,5,"West Koovam Atru Salai, Ward 62, ROYAPURAM, Chennai, Tamil Nadu, India",13.0721929,80.2682661
+S5-62-60,Pumping Station Road,UnTenable,62,358,1449,5,"Pumping Station Road, Ward 62, ROYAPURAM, Chennai, Tamil Nadu, India",13.0735843,80.2717934
+S6-65-86,Makkaram Thottam,Tenable,65,320,1134,6,"Makkaram Thottam, Ward 65, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1192714,80.2073814
+S6-68-96,Jai beem Nagar,Tenable,68,262,994,6,"Jai beem Nagar, Ward 68, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1175642,80.2373593
+S6-68-90,Maduraisamy Madam,Tenable,68,1045,4062,6,"Maduraisamy Madam, Ward 68, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.119938,80.2342226
+S6-68-91,MalliPoo Colony,Tenable,68,171,729,6,"MalliPoo Colony, Ward 68, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.119938,80.2342226
+S6-68-94,"Othavadai , Street & Lane",Tenable,68,265,937,6,"Othavadai , Street & Lane, Ward 68, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.119938,80.2342226
+S6-68-95,Poonusamy Nagar,Tenable,68,225,874,6,"Poonusamy Nagar, Ward 68, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.119938,80.2342226
+S6-68-99,Thidith Thottam,Tenable,68,1127,4147,6,"Thidith Thottam, Ward 68, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.119938,80.2342226
+S6-68-92,Apparao Garden,Tenable,68,38,154,6,"Apparao Garden, Ward 68, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1221353,80.2356011
+S6-67-11,Loco Works,Un-Tenable,67,74,276,6,"Loco Works, Ward 67, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1084849,80.2336027
+S6-66-2,K C Garden,Tenable,66,1587,5449,6,"K C Garden, Ward 66, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1183542,80.2300401
+S6-69-101,Maduma Nagar,Tenable,69,792,3086,6,"Maduma Nagar, Ward 69, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.120537,80.2451263
+S6-73-50,Old Vazhaima Nagar,Tenable,73,464,1820,6,"Old Vazhaima Nagar, Ward 73, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.0988485,80.2523934
+S6-71-26,New Tank Bund Road,Tenable,71,122,418,6,"New Tank Bund Road, Ward 71, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.0997065,80.2473328
+S6-71-30,Krishnadoss Road,Tenable,71,847,3179,6,"Krishnadoss Road, Ward 71, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1029248,80.2492468
+S6-71-22,Ekangipuram,Semi-Tenable,71,1194,4478,6,"Ekangipuram, Ward 71, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1032671,80.2453748
+S6-71-23,Semathamman Colony,Un-Tenable,71,652,2349,6,"Semathamman Colony, Ward 71, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1058126,80.2444165
+S6-71-32,Adhisesha Nagar,Tenable,71,412,1428,6,"Adhisesha Nagar, Ward 71, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1065119,80.2464203
+S6-70-19,Arunthathi Nagar I,Semi-Tenable,70,566,2217,6,"Arunthathi Nagar I, Ward 70, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1074094,80.2512989
+S6-70-20,Arunthathi Nagar II,Semi-Tenable,70,400,1654,6,"Arunthathi Nagar II, Ward 70, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1074094,80.2512989
+S6-76-67,K.M. Garden,Tenable,76,1104,4548,6,"K.M. Garden, Ward 76, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.0944623,80.2600368
+S6-76-70,Ramanujam Garden,Tenable,76,25,102,6,"Ramanujam Garden, Ward 76, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.0960065,80.2570181
+S6-73-51,Pensioners Lane,Tenable,73,275,1323,6,"Pensioners Lane, Ward 73, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.098975,80.2558128
+S6-72-43,V.O.C Nagar,Tenable,72,567,2388,6,"V.O.C Nagar, Ward 72, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1057185,80.2612958
+S6-77-74,Kattur Nallamuthu Street,Tenable,77,26,125,6,"Kattur Nallamuthu Street, Ward 77, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.0946789,80.2636159
+S6-73-56,Gray Nagar,Tenable,73,119,603,6,"Gray Nagar, Ward 73, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1001556,80.2666298
+S6-72-46,Narasimman Nagar,Tenable,72,238,957,6,"Narasimman Nagar, Ward 72, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.1044292,80.2666298
+S7-79-2,Oragadam Colony,Untenable,79,370,1344,7,"Oragadam Colony, Ward 79, AMBATTUR, Chennai, Tamil Nadu, India",13.129026,80.1548021
+S7-79-6,"Venkateswara Nagar
+Extension",Tenable,79,496,1841,7,"Venkateswara Nagar
+Extension, Ward 79, AMBATTUR, Chennai, Tamil Nadu, India",13.133094,80.1498362
+S7-79-3,Lakshmi Amman Nagar,Untenable,79,296,1057,7,"Lakshmi Amman Nagar, Ward 79, AMBATTUR, Chennai, Tamil Nadu, India",13.1349953,80.152976
+S7-79-1,Oragadam,Tenable,79,749,2698,7,"Oragadam, Ward 79, AMBATTUR, Chennai, Tamil Nadu, India",13.1375403,80.1539697
+S7-82-15,"Menambedu, Munusamy Koil Street",Tenable,82,186,609,7,"Menambedu, Munusamy Koil Street, Ward 82, AMBATTUR, Chennai, Tamil Nadu, India",13.1206712,80.1647503
+S7-82-16,"Menambedu, Sabari Iyyappan Nagar",Tenable,82,101,351,7,"Menambedu, Sabari Iyyappan Nagar, Ward 82, AMBATTUR, Chennai, Tamil Nadu, India",13.1206712,80.1647503
+S7-82-17,"Menambedu,  Indian Bank Colony",Untenable,82,58,189,7,"Menambedu,  Indian Bank Colony, Ward 82, AMBATTUR, Chennai, Tamil Nadu, India",13.1206712,80.1647503
+S7-79-4,S.V.Nagar,Tenable,79,353,1258,7,"S.V.Nagar, Ward 79, AMBATTUR, Chennai, Tamil Nadu, India",13.1303062,80.1573763
+S7-82-20,Kalli Kuppam,Tenable,82,110,361,7,"Kalli Kuppam, Ward 82, AMBATTUR, Chennai, Tamil Nadu, India",13.136693,80.169371
+S7-82-14,"Kallikuppam,  Sakthi Nagar",Tenable,82,101,315,7,"Kallikuppam,  Sakthi Nagar, Ward 82, AMBATTUR, Chennai, Tamil Nadu, India",13.1376946,80.167627
+S7-82-11,"Kallikuppam, Srinivasa Nagar",Tenable,82,63,203,7,"Kallikuppam, Srinivasa Nagar, Ward 82, AMBATTUR, Chennai, Tamil Nadu, India",13.1398583,80.1683246
+S7-85-50,"Kamarajapuram , Part II",Tenable,85,369,1374,7,"Kamarajapuram , Part II, Ward 85, AMBATTUR, Chennai, Tamil Nadu, India",13.1069309,80.1547203
+S7-85-51,"Kamarajapuram , Part I",Tenable,85,282,1073,7,"Kamarajapuram , Part I, Ward 85, AMBATTUR, Chennai, Tamil Nadu, India",13.1069309,80.1547203
+S7-85-53,"Kamarajapuram , Sugadhara Paniyalar Kudiyiruppu",Tenable,85,121,496,7,"Kamarajapuram , Sugadhara Paniyalar Kudiyiruppu, Ward 85, AMBATTUR, Chennai, Tamil Nadu, India",13.1069309,80.1547203
+S7-85-55,M.K.B Nagar,Tenable,85,529,1964,7,"M.K.B Nagar, Ward 85, AMBATTUR, Chennai, Tamil Nadu, India",13.1070595,80.1487895
+S7-85-57,Shivanantha Nagar,Tenable,85,481,1685,7,"Shivanantha Nagar, Ward 85, AMBATTUR, Chennai, Tamil Nadu, India",13.1071398,80.1508828
+S7-85-52,Dobi Colony,Tenable,85,257,976,7,"Dobi Colony, Ward 85, AMBATTUR, Chennai, Tamil Nadu, India",13.1074979,80.1537504
+S7-85-49,Ramapuram,Tenable,85,218,794,7,"Ramapuram, Ward 85, AMBATTUR, Chennai, Tamil Nadu, India",13.1097793,80.1547203
+S7-85-56,Teachers Colony,Tenable,85,563,1962,7,"Teachers Colony, Ward 85, AMBATTUR, Chennai, Tamil Nadu, India",13.1106736,80.150185
+S7-81-9,Indira Nagar,Tenable,81,372,1266,7,"Indira Nagar, Ward 81, AMBATTUR, Chennai, Tamil Nadu, India",13.1153159,80.1505339
+S7-84-40,"Pattravakkam, Yadavel Street",Tenable,84,37,123,7,"Pattravakkam, Yadavel Street, Ward 84, AMBATTUR, Chennai, Tamil Nadu, India",13.1070009,80.1699687
+S7-84-43,"Pattravakkam, Kanniyamman Koil Street",Tenable,84,122,390,7,"Pattravakkam, Kanniyamman Koil Street, Ward 84, AMBATTUR, Chennai, Tamil Nadu, India",13.1103786,80.1686165
+S7-84-44,"Pattravakkam, Kannan Koil Street",Tenable,84,66,236,7,"Pattravakkam, Kannan Koil Street, Ward 84, AMBATTUR, Chennai, Tamil Nadu, India",13.1104727,80.1675051
+S7-84-39,"Pattravakkam, Mariyamman Koil Street",Untenable,84,67,198,7,"Pattravakkam, Mariyamman Koil Street, Ward 84, AMBATTUR, Chennai, Tamil Nadu, India",13.1105817,80.1686486
+S7-83-28,Sivalingapuram,Tenable,83,147,481,7,"Sivalingapuram, Ward 83, AMBATTUR, Chennai, Tamil Nadu, India",13.1138563,80.1868091
+S7-82-18,"Karukku , New Street",Tenable,82,112,349,7,"Karukku , New Street, Ward 82, AMBATTUR, Chennai, Tamil Nadu, India",13.11713,80.1708936
+S7-82-19,"Karukku , Old Street",Tenable,82,108,336,7,"Karukku , Old Street, Ward 82, AMBATTUR, Chennai, Tamil Nadu, India",13.1188516,80.1712952
+S7-82-12,"Kallikuppam, Gangai Nagar",Untenable,82,61,186,7,"Kallikuppam, Gangai Nagar, Ward 82, AMBATTUR, Chennai, Tamil Nadu, India",13.132094,80.17181
+S7-82-13,"Kallikuppam,  Muthamil Nagar",Tenable,82,92,270,7,"Kallikuppam,  Muthamil Nagar, Ward 82, AMBATTUR, Chennai, Tamil Nadu, India",13.1324522,80.1736169
+S3-24-16,Annai Indira Nagar,Tenable,24,739,2993,3,"Annai Indira Nagar, Ward 24, MADHAVARAM, Chennai, Tamil Nadu, India",13.1428196,80.1805318
+S7-86-61,"Athipet , Periya Colony",Tenable,86,210,670,7,"Athipet , Periya Colony, Ward 86, AMBATTUR, Chennai, Tamil Nadu, India",13.0895523,80.1564646
+S7-86-60,"Athipet , Chinna Colony",Tenable,86,231,759,7,"Athipet , Chinna Colony, Ward 86, AMBATTUR, Chennai, Tamil Nadu, India",13.0955964,80.1525405
+S7-86-62,Ambattur Kuppam,Tenable,86,203,631,7,"Ambattur Kuppam, Ward 86, AMBATTUR, Chennai, Tamil Nadu, India",13.09581,80.1557541
+S7-86-63,Athipet Kuppam,Tenable,86,67,209,7,"Athipet Kuppam, Ward 86, AMBATTUR, Chennai, Tamil Nadu, India",13.0970153,80.1561157
+S7-85-54,Mangalapuram,Tenable,85,469,1700,7,"Mangalapuram, Ward 85, AMBATTUR, Chennai, Tamil Nadu, India",13.1030858,80.165883
+S7-84-42,"Pattravakkam, Braminar Street",Tenable,84,89,292,7,"Pattravakkam, Braminar Street, Ward 84, AMBATTUR, Chennai, Tamil Nadu, India",13.1073021,80.167145
+S8-99-20,Satya sai Nagar New 2,untenable,99,188,664,8,"Satya sai Nagar New 2, Ward 99, ANNA NAGAR, Chennai, Tamil Nadu, India",13.0861352,80.2032262
+S8-99-23,Satya sai Nagar New 1,untenable,99,159,539,8,"Satya sai Nagar New 1, Ward 99, ANNA NAGAR, Chennai, Tamil Nadu, India",13.0861352,80.2032262
+S7-88-69,Dever Nagar,Tenable,88,157,595,7,"Dever Nagar, Ward 88, AMBATTUR, Chennai, Tamil Nadu, India",13.0917969,80.1882371
+S7-84-37,"Koratur, Pothiyamman Koil Street",Tenable,84,190,629,7,"Koratur, Pothiyamman Koil Street, Ward 84, AMBATTUR, Chennai, Tamil Nadu, India",13.1021419,80.1784392
+S7-84-35,"Koratur, Chavadi Street",Tenable,84,44,134,7,"Koratur, Chavadi Street, Ward 84, AMBATTUR, Chennai, Tamil Nadu, India",13.1030148,80.1815607
+S7-84-32,"Koratur, Station Road",Untenable,84,67,202,7,"Koratur, Station Road, Ward 84, AMBATTUR, Chennai, Tamil Nadu, India",13.1030608,80.1794
+S7-93-83,PadiKuppam,Untenable,93,364,1416,7,"PadiKuppam, Ward 93, AMBATTUR, Chennai, Tamil Nadu, India",13.0769339,80.1895988
+S8-94-1,Rajamangalam,Tenable,94,651,2554,8,"Rajamangalam, Ward 94, ANNA NAGAR, Chennai, Tamil Nadu, India",13.1120692,80.2052895
+S7-83-30,"Agraharam, Kandigai",Tenable,83,68,224,7,"Agraharam, Kandigai, Ward 83, AMBATTUR, Chennai, Tamil Nadu, India",13.1183428,80.1923885
+S8-94-9,Balaramapuram,Tenable,94,74,261,8,"Balaramapuram, Ward 94, ANNA NAGAR, Chennai, Tamil Nadu, India",13.1083621,80.1977404
+S8-97-12,Solai 3rd Street,untenable,97,129,408,8,"Solai 3rd Street, Ward 97, ANNA NAGAR, Chennai, Tamil Nadu, India",13.0899643,80.2296212
+S8-101-25,Annai Sathya Nagar,Tenable,101,39,154,8,"Annai Sathya Nagar, Ward 101, ANNA NAGAR, Chennai, Tamil Nadu, India",13.0951916,80.2202802
+S10-127-45,Mettukulam,Tenable,127,325,1185,10,"Mettukulam, Ward 127, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.07406,80.19204
+S8-99-19,Thiruvenkadaiah Street,Tenable,99,265,933,8,"Thiruvenkadaiah Street, Ward 99, ANNA NAGAR, Chennai, Tamil Nadu, India",13.0849557,80.2101342
+S8-107-48,Apparao Garden,untenable,107,265,929,8,"Apparao Garden, Ward 107, ANNA NAGAR, Chennai, Tamil Nadu, India",13.069331,80.2303261
+S8-106-45,Vellala Theru,untenable,106,185,665,8,"Vellala Theru, Ward 106, ANNA NAGAR, Chennai, Tamil Nadu, India",13.0730803,80.2262737
+S8-103-28,Temple Street,Tenable,103,63,251,8,"Temple Street, Ward 103, ANNA NAGAR, Chennai, Tamil Nadu, India",13.0802288,80.2343584
+S8-104-33,Sastri Nagar,Tenable,104,32,127,8,"Sastri Nagar, Ward 104, ANNA NAGAR, Chennai, Tamil Nadu, India",13.0778405,80.2509504
+S8-104-37,Ponnan Street,Tenable,104,71,278,8,"Ponnan Street, Ward 104, ANNA NAGAR, Chennai, Tamil Nadu, India",13.0903561,80.2521839
+S6-75-65,Venkatammal Samathi,Tenable,75,94,304,6,"Venkatammal Samathi, Ward 75, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.0913999,80.2526219
+S6-75-62,Briklin Road,Un-Tenable,75,33,109,6,"Briklin Road, Ward 75, THIRU-VI-KA NAGAR, Chennai, Tamil Nadu, India",13.0919371,80.2510425
+S9-109-4,Thiruvengadapuram,Tenable,109,81,281,9,"Thiruvengadapuram, Ward 109, TEY NAM PET, Chennai, Tamil Nadu, India",13.0656025,80.2286459
+S9-109-3,West Namachivaya puram,UnTenable,109,1025,3710,9,"West Namachivaya puram, Ward 109, TEY NAM PET, Chennai, Tamil Nadu, India",13.0674486,80.2303886
+S9-109-1,East Namachivaya puram,Untenable,109,933,3575,9,"East Namachivaya puram, Ward 109, TEY NAM PET, Chennai, Tamil Nadu, India",13.0675279,80.2324799
+S8-108-50,Azad Nagar,Tenable,108,158,589,8,"Azad Nagar, Ward 108, ANNA NAGAR, Chennai, Tamil Nadu, India",13.0682104,80.2177969
+S9-110-5,Pushpa Nagar,Tenable,110,100,341,9,"Pushpa Nagar, Ward 110, TEY NAM PET, Chennai, Tamil Nadu, India",13.0588526,80.2384048
+S10-142-38,"Kothavalchavadi street,  Sasthiri Nagar",Untenable,142,52,187,10,"Kothavalchavadi street,  Sasthiri Nagar, Ward 142, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0217622,80.216173
+S10-142-39,"Kothavalchavadi street,  Tenament",Untenable,142,160,542,10,"Kothavalchavadi street,  Tenament , Ward 142, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0217622,80.216173
+S10-139-81,Veethi Mariyamman Koil Street,Tenable,139,144,528,10,"Veethi Mariyamman Koil Street, Ward 139, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0272719,80.2123123
+S10-139-8,Appadurai Street,Untenable,139,20,71,10,"Appadurai Street, Ward 139, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0275502,80.2130863
+S10-139-14,Bharathi Block,Untenable,139,28,92,10,"Bharathi Block, Ward 139, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.028347,80.2129595
+S9-113-9,Gangaikarai Puram,Untenable,113,341,1201,9,"Gangaikarai Puram, Ward 113, TEY NAM PET, Chennai, Tamil Nadu, India",13.0505203,80.2439809
+S9-113-11,Grama Street,Tenable,113,24,96,9,"Grama Street, Ward 113, TEY NAM PET, Chennai, Tamil Nadu, India",13.0536664,80.2464185
+S10-134-11,Aziz Nagar,Untenable,134,78,333,10,"Aziz Nagar, Ward 134, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0470923,80.2286459
+S10-134-3,Akbarabath,Untenable,134,157,615,10,"Akbarabath, Ward 134, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0510209,80.2289944
+S10-134-29,Kamarajar Colony,Tenable,134,1246,4956,10,"Kamarajar Colony, Ward 134, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0511915,80.2194087
+S10-134-1,60 Kudusai,Tenable,134,179,712,10,"60 Kudusai, Ward 134, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0521019,80.2255286
+S10-134-15,Chinna Raja Pillai Thottam,Tenable,134,544,2199,10,"Chinna Raja Pillai Thottam, Ward 134, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0521019,80.2255286
+S10-134-60,Puliyurpuram,Tenable,134,639,2560,10,"Puliyurpuram, Ward 134, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0521019,80.2255286
+S10-134-78,Valliyammal Thottam,Untenable,134,75,270,10,"Valliyammal Thottam, Ward 134, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0521019,80.2255286
+S10-134-76,United India Colony,Tenable,134,39,143,10,"United India Colony, Ward 134, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0526818,80.2258574
+S9-114-15,Victoria Hostel Backside,Untenable,114,204,822,9,"Victoria Hostel Backside, Ward 114, TEY NAM PET, Chennai, Tamil Nadu, India",13.059193,80.2796399
+S9-114-14,Lock Nagar,Untenable,114,93,368,9,"Lock Nagar, Ward 114, TEY NAM PET, Chennai, Tamil Nadu, India",13.0665441,80.2820148
+S9-125-56,Kailasapuram,Tenable,125,287,1078,9,"Kailasapuram, Ward 125, TEY NAM PET, Chennai, Tamil Nadu, India",13.0418159,80.2774294
+S9-121-36,Rotary Nagar,Tenable,121,102,390,9,"Rotary Nagar, Ward 121, TEY NAM PET, Chennai, Tamil Nadu, India",13.0448945,80.2764715
+S9-116-18,Mattan Kuppam,tenable,116,381,1534,9,"Mattan Kuppam, Ward 116, TEY NAM PET, Chennai, Tamil Nadu, India",13.0530332,80.2794137
+S9-122-37,Kavinjar Bharathidasan Road,Tenable,122,100,383,9,"Kavinjar Bharathidasan Road, Ward 122, TEY NAM PET, Chennai, Tamil Nadu, India",13.0353214,80.2497438
+S9-117-23,Dr. Thomas Road,Tenable,117,549,1975,9,"Dr. Thomas Road, Ward 117, TEY NAM PET, Chennai, Tamil Nadu, India",13.037301,80.2442489
+S9-118-31,Nallan Street,Tenable,118,40,156,9,"Nallan Street, Ward 118, TEY NAM PET, Chennai, Tamil Nadu, India",13.0423122,80.2519027
+S9-117-22,S.S Puram,Untenable,117,142,609,9,"S.S Puram, Ward 117, TEY NAM PET, Chennai, Tamil Nadu, India",13.04281,80.2469385
+S9-117-21,"Giriyappa Road , FP",Tenable,117,154,606,9,"Giriyappa Road , FP, Ward 117, TEY NAM PET, Chennai, Tamil Nadu, India",13.0443327,80.2467616
+S9-117-30,Giriyappa Road Huts,UnTenable,117,934,4071,9,"Giriyappa Road Huts, Ward 117, TEY NAM PET, Chennai, Tamil Nadu, India",13.0443327,80.2467616
+S9-123-44,Kanni koil puram,Tenable,123,75,293,9,"Kanni koil puram, Ward 123, TEY NAM PET, Chennai, Tamil Nadu, India",13.0323928,80.2592649
+S9-124-55,"Ramakrishnapuram,6th st",Tenable,124,559,2203,9,"Ramakrishnapuram,6th st, Ward 124, TEY NAM PET, Chennai, Tamil Nadu, India",13.0367482,80.2690725
+S9-124-62,Mosque st,Untenable,124,63,246,9,"Mosque st, Ward 124, TEY NAM PET, Chennai, Tamil Nadu, India",13.0299287,80.2698447
+S9-125-57,Arumugam pillai st,Untenable,125,142,545,9,"Arumugam pillai st, Ward 125, TEY NAM PET, Chennai, Tamil Nadu, India",13.0347921,80.2720067
+S9-125-58,Rutherford puram,Untenable,125,242,994,9,"Rutherford puram, Ward 125, TEY NAM PET, Chennai, Tamil Nadu, India",13.0347921,80.2720067
+S9-125-60,Mylai Mangolai,Tenable,125,109,437,9,"Mylai Mangolai, Ward 125, TEY NAM PET, Chennai, Tamil Nadu, India",13.0347921,80.2720067
+S9-124-50,Nattan Thottam,Tenable,124,335,1333,9,"Nattan Thottam, Ward 124, TEY NAM PET, Chennai, Tamil Nadu, India",13.0403136,80.270555
+S10-129-68,Shanmuga Sundaram Street,Tenable,129,232,875,10,"Shanmuga Sundaram Street, Ward 129, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0613453,80.2024994
+S10-127-79,Vedha Nagar,Untenable,127,54,217,10,"Vedha Nagar, Ward 127, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.06172,80.1920398
+S10-127-80,Vedhanagar II,Tenable,127,25,99,10,"Vedhanagar II, Ward 127, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.06172,80.1920398
+S10-127-41,Kulasekarapuram,Tenable,127,218,870,10,"Kulasekarapuram, Ward 127, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.062329,80.2033719
+S10-128-10,"AVM Colony, Virugambakkam",Untenable,128,44,167,10,"AVM Colony, Virugambakkam, Ward 128, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0512276,80.1969215
+S10-128-20,East Vanniyar Street,tenable,128,197,719,10,"East Vanniyar Street, Ward 128, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0413564,80.1922381
+S10-131-31,"Kannigapuram , Kodambakkam",Tenable,131,147,513,10,"Kannigapuram , Kodambakkam, Ward 131, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0415534,80.2045922
+S10-131-54,New Vijayaraghavapuram,Tenable,131,196,749,10,"New Vijayaraghavapuram, Ward 131, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0446027,80.2002754
+S10-131-55,Old Vijayaraghavapuram,Tenable,131,290,1169,10,"Old Vijayaraghavapuram, Ward 131, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0446027,80.2002754
+S13-174-27,Five furloin road,un-Tenable,174,116,442,13,"Five furloin road, Ward 174, ADYAR, Chennai, Tamil Nadu, India",13.00047,80.2135828
+S13-174-70,Race Courcse Road,un-Tenable,174,46,163,13,"Race Courcse Road, Ward 174, ADYAR, Chennai, Tamil Nadu, India",13.0090327,80.2160634
+S13-171-24,Chinna Malai/LDG Road,Un-Tenable,171,468,1493,13,"Chinna Malai/LDG Road, Ward 171, ADYAR, Chennai, Tamil Nadu, India",13.0155045,80.226687
+S10-132-12,Bajanai Kovil Street,Tenable,132,436,1721,10,"Bajanai Kovil Street, Ward 132, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0453242,80.2135746
+S9-117-25,South Boag Slum,Tenable,117,162,584,9,"South Boag Slum, Ward 117, TEY NAM PET, Chennai, Tamil Nadu, India",13.035791,80.2426014
+S9-117-24,Sarangapani Street,UnTenable,117,31,118,9,"Sarangapani Street, Ward 117, TEY NAM PET, Chennai, Tamil Nadu, India",13.0492151,80.2377987
+S9-113-12,Dharmapuram,Tenable,113,683,2753,9,"Dharmapuram, Ward 113, TEY NAM PET, Chennai, Tamil Nadu, India",13.0516804,80.2370108
+S10-139-63,RV Nagar,Untenable,139,113,449,10,"RV Nagar, Ward 139, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0297705,80.2129595
+S10-138-84,"Jafferkhanpet,Keeraithottam",Tenable,138,42,175,10,"Jafferkhanpet,Keeraithottam, Ward 138, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.029936,80.2048005
+S10-138-85,Jafferkhanpet,Tenable,138,33,154,10,"Jafferkhanpet, Ward 138, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.029936,80.2048005
+S10-138-6,Annai Sathya Nagar,Tenable,138,414,1687,10,"Annai Sathya Nagar, Ward 138, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0302696,80.1979676
+S10-137-13,Barathi Nagar,Tenable,137,446,1623,10,"Barathi Nagar, Ward 137, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0315897,80.1917508
+S10-138-4,Ambedkar Colony,Tenable,138,1018,3564,10,"Ambedkar Colony, Ward 138, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0329993,80.2089503
+S7-83-27,"Madanankuppam, Perumal Koil Street",Tenable,83,18,69,7,"Madanankuppam, Perumal Koil Street, Ward 83, AMBATTUR, Chennai, Tamil Nadu, India",13.135539,80.1878122
+S3-24-15,Bharathidasan Nagar,Tenable,24,638,2512,3,"Bharathidasan Nagar, Ward 24, MADHAVARAM, Chennai, Tamil Nadu, India",13.1458829,80.1861116
+S10-141-72,South Dhandabani Street,Tenable,141,18,73,10,"South Dhandabani Street, Ward 141, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0329184,80.2329895
+S11-146-15,Ganapathi Nagar,UnTenable,146,17,66,11,"Ganapathi Nagar, Ward 146, VALASARAVAKKAM, Chennai, Tamil Nadu, India",13.051719,80.1630924
+S11-146-14,Dhana Lakshmi Nagar,UnTenable,146,721,3032,11,"Dhana Lakshmi Nagar, Ward 146, VALASARAVAKKAM, Chennai, Tamil Nadu, India",13.0542768,80.1648365
+S11-147-17,Mettu Kuppam,Tenable,147,83,312,11,"Mettu Kuppam, Ward 147, VALASARAVAKKAM, Chennai, Tamil Nadu, India",13.0574433,80.1732077
+S11-143-5,"Chinna Nolumbur, Union Road",Tenable,143,92,344,11,"Chinna Nolumbur, Union Road, Ward 143, VALASARAVAKKAM, Chennai, Tamil Nadu, India",13.0667259,80.169564
+S11-143-2,"Periya Nolumbur, Vembuiliyamman Koil Street",Tenable,143,154,585,11,"Periya Nolumbur, Vembuiliyamman Koil Street, Ward 143, VALASARAVAKKAM, Chennai, Tamil Nadu, India",13.0713717,80.166143
+S11-143-4,"Periya Nolumbur, Pada Salai Street",Tenable,143,106,416,11,"Periya Nolumbur, Pada Salai Street, Ward 143, VALASARAVAKKAM, Chennai, Tamil Nadu, India",13.0713717,80.166143
+S11-143-7,"Periya Nolumbur , Vellalar Street",Tenable,143,33,112,11,"Periya Nolumbur , Vellalar Street, Ward 143, VALASARAVAKKAM, Chennai, Tamil Nadu, India",13.0713717,80.166143
+S10-129-16,Dasarathapuram,Tenable,129,763,3064,10,"Dasarathapuram, Ward 129, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0580683,80.2028759
+S10-129-17,Devaraj Nagar,Tenable,129,7,22,10,"Devaraj Nagar, Ward 129, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0592646,80.2028015
+S11-155-30,"Ramapuram,2",Tenable,155,94,324,11,"Ramapuram,2, Ward 155, VALASARAVAKKAM, Chennai, Tamil Nadu, India",13.0266994,80.1831596
+S11-151-22,"Chinna Porur , Mariyamman Koil Street",Tenable,151,185,746,11,"Chinna Porur , Mariyamman Koil Street, Ward 151, VALASARAVAKKAM, Chennai, Tamil Nadu, India",13.0356028,80.1682048
+S11-152-25,"Anna Street,Kalaigar Street &Periyar Street",Tenable,152,176,761,11,"Anna Street,Kalaigar Street &Periyar Street, Ward 152, VALASARAVAKKAM, Chennai, Tamil Nadu, India",13.0399683,80.176981
+S11-146-13,Rajiv Gandhi Nagar,UnTenable,146,271,1149,11,"Rajiv Gandhi Nagar, Ward 146, VALASARAVAKKAM, Chennai, Tamil Nadu, India",13.0474483,80.1630924
+S13-170-1,12B Nagireddy thottam,un-Tenable,170,245,868,13,"12B Nagireddy thottam, Ward 170, ADYAR, Chennai, Tamil Nadu, India",13.0178292,80.2130789
+S12-158-21,Thulasingapuram,Tenable,158,275,1043,12,"Thulasingapuram, Ward 158, ALANDUR, Chennai, Tamil Nadu, India",13.016854,80.1844399
+S12-158-23,Muthu Mariyamman Kovil Street,Tenable,158,60,221,12,"Muthu Mariyamman Kovil Street, Ward 158, ALANDUR, Chennai, Tamil Nadu, India",13.016854,80.1844399
+S12-156-4,Bangala Thoppu,Tenable,156,86,334,12,"Bangala Thoppu, Ward 156, ALANDUR, Chennai, Tamil Nadu, India",13.0205459,80.1528016
+S12-156-2,Kumari Nagar,Tenable,156,32,138,12,"Kumari Nagar, Ward 156, ALANDUR, Chennai, Tamil Nadu, India",13.0229692,80.1487023
+S12-162-38,Pitchan Street,Tenable,162,88,325,12,"Pitchan Street, Ward 162, ALANDUR, Chennai, Tamil Nadu, India",12.9964455,80.1965194
+S12-162-37,Ali Khan Street,Tenable,162,32,128,12,"Ali Khan Street, Ward 162, ALANDUR, Chennai, Tamil Nadu, India",12.9965595,80.195833
+S12-161-32,Labhai Street,Tenable,161,65,266,12,"Labhai Street, Ward 161, ALANDUR, Chennai, Tamil Nadu, India",12.9974873,80.2006371
+S12-161-30,South Raja Street,Tenable,161,194,783,12,"South Raja Street, Ward 161, ALANDUR, Chennai, Tamil Nadu, India",12.9978364,80.1995215
+S12-162-36,Kannan Colony,Tenable,162,187,809,12,"Kannan Colony, Ward 162, ALANDUR, Chennai, Tamil Nadu, India",12.9928958,80.188204
+S13-171-71,Railway Border First Street,un-Tenable,171,104,359,13,"Railway Border First Street, Ward 171, ADYAR, Chennai, Tamil Nadu, India",13.0294569,80.2257235
+S10-140-57,Paneerselvam Nagar,Tenable,140,261,1077,10,"Paneerselvam Nagar, Ward 140, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0297974,80.2230688
+S10-133-52,Nallan Kuppam,Tenable,133,394,1557,10,"Nallan Kuppam, Ward 133, KODAMBAKKAM, Chennai, Tamil Nadu, India",13.0337779,80.2201059
+S13-172-66,Perumal Koil Street I & II,Tenable,172,60,219,13,"Perumal Koil Street I & II, Ward 172, ADYAR, Chennai, Tamil Nadu, India",13.0143593,80.2464626
+S13-171-82,Surya Nagar,Un-Tenable,171,1014,3185,13,"Surya Nagar, Ward 171, ADYAR, Chennai, Tamil Nadu, India",13.0168804,80.2391019
+S13-173-9,Annai Sathya Nagar,Un-Tenable,173,515,1787,13,"Annai Sathya Nagar, Ward 173, ADYAR, Chennai, Tamil Nadu, India",13.0168784,80.2579194
+S13-173-42,KVB Garden,Tenable,173,347,1418,13,"KVB Garden, Ward 173, ADYAR, Chennai, Tamil Nadu, India",13.01929,80.2605326
+S13-173-73,Rajagramani Thottam,Tenable,173,180,611,13,"Rajagramani Thottam, Ward 173, ADYAR, Chennai, Tamil Nadu, India",13.0245914,80.267172
+S9-124-49,Pillayar koil Thottam,Tenable,124,295,1209,9,"Pillayar koil Thottam, Ward 124, TEY NAM PET, Chennai, Tamil Nadu, India",13.0300848,80.2660201
+S13-180-83,Thanthai Periyar Nagar,Tenable,180,2303,8698,13,"Thanthai Periyar Nagar, Ward 180, ADYAR, Chennai, Tamil Nadu, India",12.980424,80.2378723
+S13-180-46,Mahathma Gandhi Nagar,Tenable,180,1979,7434,13,"Mahathma Gandhi Nagar, Ward 180, ADYAR, Chennai, Tamil Nadu, India",12.9828279,80.2418899
+S13-180-65,"Periyar Nagar , Kanagam",un-Tenable,180,181,680,13,"Periyar Nagar , Kanagam, Ward 180, ADYAR, Chennai, Tamil Nadu, India",12.9882038,80.2429354
+S13-180-40,Kanagam,Tenable,180,436,1674,13,"Kanagam, Ward 180, ADYAR, Chennai, Tamil Nadu, India",12.9921042,80.2425869
+S13-180-55,"Nehru Street , Kanagam",Tenable,180,182,634,13,"Nehru Street , Kanagam, Ward 180, ADYAR, Chennai, Tamil Nadu, India",12.9935389,80.24253
+S13-176-78,Sasthri Nagar,Tenable,176,537,2042,13,"Sasthri Nagar, Ward 176, ADYAR, Chennai, Tamil Nadu, India",12.9991491,80.2590739
+S13-176-19,"Besant Avenue, Adyar Huts",Tenable,176,110,362,13,"Besant Avenue, Adyar Huts, Ward 176, ADYAR, Chennai, Tamil Nadu, India",13.0080362,80.2649087
+S13-177-26,"Ex,Serviceman Colony",Tenable,177,109,436,13,"Ex,Serviceman Colony, Ward 177, ADYAR, Chennai, Tamil Nadu, India",12.9916105,80.2065465
+S13-177-31,Indira Gandhi Nagar,Tenable,177,203,766,13,"Indira Gandhi Nagar, Ward 177, ADYAR, Chennai, Tamil Nadu, India",12.9940566,80.2094732
+S12-165-44,Sundaramurthy Street,Un-tenable,165,200,697,12,"Sundaramurthy Street, Ward 165, ALANDUR, Chennai, Tamil Nadu, India",12.9838541,80.1966723
+S13-177-4,Ambedkar Nagar,Tenable,177,3344,13437,13,"Ambedkar Nagar, Ward 177, ADYAR, Chennai, Tamil Nadu, India",12.984479,80.2047014
+S13-177-16,ASK Nagar,Tenable,177,149,489,13,"ASK Nagar, Ward 177, ADYAR, Chennai, Tamil Nadu, India",12.984479,80.2047014
+S13-177-37,Kakkan Nagar,Tenable,177,410,1499,13,"Kakkan Nagar, Ward 177, ADYAR, Chennai, Tamil Nadu, India",12.984479,80.2047014
+S13-177-77,Sasi Nagar,Tenable,177,256,932,13,"Sasi Nagar, Ward 177, ADYAR, Chennai, Tamil Nadu, India",12.984479,80.2047014
+S14-184-18,"Anjugam Ammaiyar Nagar, Kallukuttai Part VIII",Tenable,184,724,2619,14,"Anjugam Ammaiyar Nagar, Kallukuttai Part VIII, Ward 184, PER UNGUDI, Chennai, Tamil Nadu, India",12.9685738,80.2317828
+S14-184-17,"Nethaji Nagar,Kallukuttai Part XI",Tenable,184,88,319,14,"Nethaji Nagar,Kallukuttai Part XI, Ward 184, PER UNGUDI, Chennai, Tamil Nadu, India",12.9793768,80.2352681
+S13-179-58,New Colony,Tenable,179,60,200,13,"New Colony, Ward 179, ADYAR, Chennai, Tamil Nadu, India",12.9835275,80.2313566
+S13-178-34,Jeganathapuram,Un-Tenable,178,616,2261,13,"Jeganathapuram, Ward 178, ADYAR, Chennai, Tamil Nadu, India",12.9852406,80.2186003
+S13-178-86,Throwpathy amman koil street,Un-Tenable,178,517,1949,13,"Throwpathy amman koil street, Ward 178, ADYAR, Chennai, Tamil Nadu, India",12.9852406,80.2186003
+S13-180-33,Jayanthi Periyar Nagar MUDP,Tenable,180,686,2509,13,"Jayanthi Periyar Nagar MUDP, Ward 180, ADYAR, Chennai, Tamil Nadu, India",12.9892826,80.2526927
+S13-180-89,Valluvar Nagar,Tenable,180,166,599,13,"Valluvar Nagar, Ward 180, ADYAR, Chennai, Tamil Nadu, India",12.9900466,80.2540865
+S13-181-7,Annastreet,Tenable,181,228,834,13,"Annastreet, Ward 181, ADYAR, Chennai, Tamil Nadu, India",12.9917157,80.2627517
+S13-181-44,Lakshmipuram,Tenable,181,785,2931,13,"Lakshmipuram, Ward 181, ADYAR, Chennai, Tamil Nadu, India",12.9924959,80.2624489
+S13-181-29,Gangai Amman Koil Street,Tenable,181,115,429,13,"Gangai Amman Koil Street, Ward 181, ADYAR, Chennai, Tamil Nadu, India",12.993092,80.2611634
+S13-181-50,Marudheeswarar Nagar,Tenable,181,585,2094,13,"Marudheeswarar Nagar, Ward 181, ADYAR, Chennai, Tamil Nadu, India",12.9950847,80.2564172
+S13-180-75,Ranganathapuram,un-Tenable,180,921,3322,13,"Ranganathapuram, Ward 180, ADYAR, Chennai, Tamil Nadu, India",12.9868314,80.2537381
+S13-180-76,"Ranganathapuram , Indra Nagar",Un-Tenable,180,553,2015,13,"Ranganathapuram , Indra Nagar, Ward 180, ADYAR, Chennai, Tamil Nadu, India",12.9868314,80.2537381
+S14-188-32,"Madipakkam,Kulakkarai Street",Tenable,188,211,723,14,"Madipakkam,Kulakkarai Street, Ward 188, PER UNGUDI, Chennai, Tamil Nadu, India",12.9634528,80.1984325
+S15-192-2,Chinna Neelangarai Kuppam,Tenable,192,454,1329,15,"Chinna Neelangarai Kuppam, Ward 192, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9558405,80.2621005
+S14-185-22,Palavakkam Colony,Tenable,185,79,287,14,"Palavakkam Colony, Ward 185, PER UNGUDI, Chennai, Tamil Nadu, India",12.9616562,80.256219
+S14-184-13,Kandanchavadi Kallukutti Part X,Tenable,184,78,310,14,"Kandanchavadi Kallukutti Part X, Ward 184, PER UNGUDI, Chennai, Tamil Nadu, India",12.9658958,80.2423184
+S14-183-8,Kottivakkam Kuppam,Tenable,183,275,952,14,"Kottivakkam Kuppam, Ward 183, PER UNGUDI, Chennai, Tamil Nadu, India",12.9673441,80.2640747
+S14-183-3,"Kottivakkam,Anna Nagar",Tenable,183,144,487,14,"Kottivakkam,Anna Nagar, Ward 183, PER UNGUDI, Chennai, Tamil Nadu, India",12.9682126,80.2599427
+S14-183-4,Kottivakkam Elango Nagar,Un-tenable,183,491,1635,14,"Kottivakkam Elango Nagar, Ward 183, PER UNGUDI, Chennai, Tamil Nadu, India",12.9682126,80.2599427
+S14-183-6,Kottivakkam M.G.R.Nagar,Tenable,183,55,196,14,"Kottivakkam M.G.R.Nagar, Ward 183, PER UNGUDI, Chennai, Tamil Nadu, India",12.9682126,80.2599427
+S14-183-7,Kottivakkam Vengadapuram,Tenable,183,158,519,14,"Kottivakkam Vengadapuram, Ward 183, PER UNGUDI, Chennai, Tamil Nadu, India",12.9682126,80.2599427
+S14-183-5,Kottivakkam New Colony,Tenable,183,87,328,14,"Kottivakkam New Colony, Ward 183, PER UNGUDI, Chennai, Tamil Nadu, India",12.96939,80.257738
+S14-188-26,"Madipakkam ,Thai Nagar",Tenable,188,46,176,14,"Madipakkam ,Thai Nagar, Ward 188, PER UNGUDI, Chennai, Tamil Nadu, India",12.9542438,80.2101705
+S14-188-33,"Mylai Balaji Nagar,Part,III,Madipakkam",Tenable,188,315,1104,14,"Mylai Balaji Nagar,Part,III,Madipakkam, Ward 188, PER UNGUDI, Chennai, Tamil Nadu, India",12.9545447,80.1933537
+S14-188-24,"Mylai Balaji Nagar,Part,II,Madipakkam",Tenable,188,593,2166,14,"Mylai Balaji Nagar,Part,II,Madipakkam, Ward 188, PER UNGUDI, Chennai, Tamil Nadu, India",12.9571773,80.211138
+S14-188-30,"Mylai Balaji Nagar,Part,IV,Madipakkam",Tenable,188,255,883,14,"Mylai Balaji Nagar,Part,IV,Madipakkam, Ward 188, PER UNGUDI, Chennai, Tamil Nadu, India",12.9571773,80.211138
+S14-190-37,"Pallikaranai , Bharathidasan Street , Part,I",Tenable,190,407,1548,14,"Pallikaranai , Bharathidasan Street , Part,I, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-38,"Pallikaranai , Bharathidasan Street , Part,II",Tenable,190,78,297,14,"Pallikaranai , Bharathidasan Street , Part,II, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-39,Pallikaranai,Tenable,190,90,329,14,"Pallikaranai, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-40,"Pallikaranai , Bhavaniyamman Koil Street",Un-tenable,190,167,601,14,"Pallikaranai , Bhavaniyamman Koil Street, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-41,"Pallikaranai ,Kamarajar Street",Un-tenable,190,66,229,14,"Pallikaranai ,Kamarajar Street, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-42,"Pallikaranai , Karmel Street",Un-tenable,190,97,357,14,"Pallikaranai , Karmel Street, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-44,"Pallikaranai , Kannapiran Koil Street",Un-tenable,190,120,89,14,"Pallikaranai , Kannapiran Koil Street, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-46,"Pallikaranai , Thiruvalluvar Street",Un-tenable,190,40,150,14,"Pallikaranai , Thiruvalluvar Street, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-47,"Pallikaranai , Imanuvel Street",Un-tenable,190,76,285,14,"Pallikaranai , Imanuvel Street, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-48,"Pallikaranai , Moovendar Street",Un-tenable,190,172,690,14,"Pallikaranai , Moovendar Street, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-49,"Pallikaranai , Kovalur Nagar",Un-tenable,190,103,384,14,"Pallikaranai , Kovalur Nagar, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-50,"Pallikaranai, Ambedkar Street",Un-tenable,190,77,290,14,"Pallikaranai, Ambedkar Street, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-190-51,"Pallikaranai ,Alagiri Street",Un-tenable,190,53,194,14,"Pallikaranai ,Alagiri Street, Ward 190, PER UNGUDI, Chennai, Tamil Nadu, India",12.9309949,80.20273
+S14-189-36,Anna M.G.R.Nagar,Tenable,189,445,1681,14,"Anna M.G.R.Nagar, Ward 189, PER UNGUDI, Chennai, Tamil Nadu, India",12.9382664,80.2155741
+S14-188-25,"Madipakkam,V.G.P Rajesh Nagar",Tenable,188,72,265,14,"Madipakkam,V.G.P Rajesh Nagar, Ward 188, PER UNGUDI, Chennai, Tamil Nadu, India",12.9452085,80.2063355
+S15-198-31,Panayur Kuppam,Un-tenable,198,334,1112,15,"Panayur Kuppam, Ward 198, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.8793548,80.2164253
+S14-191-52,"Nesavalar nagar , Part I",Tenable,191,338,1254,14,"Nesavalar nagar , Part I, Ward 191, PER UNGUDI, Chennai, Tamil Nadu, India",12.9133137,80.1997109
+S14-191-55,"Nesavalar Nagar Part,II",Tenable,191,96,350,14,"Nesavalar Nagar Part,II, Ward 191, PER UNGUDI, Chennai, Tamil Nadu, India",12.9133137,80.1997109
+S14-191-56,Anchaneyar Nagar,Tenable,191,289,1078,14,"Anchaneyar Nagar, Ward 191, PER UNGUDI, Chennai, Tamil Nadu, India",12.9214643,80.2053879
+S14-191-57,Krishna Nagar,Tenable,191,35,123,14,"Krishna Nagar, Ward 191, PER UNGUDI, Chennai, Tamil Nadu, India",12.9231206,80.2083613
+S15-199-33,Uthandi,Tenable,199,380,1384,15,"Uthandi, Ward 199, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.8693359,80.2435124
+S15-199-34,Uthandi Colony,Tenable,199,52,192,15,"Uthandi Colony, Ward 199, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.8693359,80.2435124
+S15-199-32,Nainar Kuppam,Un-tenable,199,368,1268,15,"Nainar Kuppam, Ward 199, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.8742342,80.24492
+S15-198-30,Akkarai,Tenable,198,42,140,15,"Akkarai, Ward 198, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9025794,80.2464401
+S15-196-18,Bethel Nagar,Un-tenable,196,1540,5757,15,"Bethel Nagar, Ward 196, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9224949,80.2453748
+S15-196-20,Vettuvankani,Tenable,196,110,437,15,"Vettuvankani, Ward 196, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.937137,80.2565256
+S15-192-3,Periya Neelangarai Kuppam,Tenable,192,257,796,15,"Periya Neelangarai Kuppam, Ward 192, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9415091,80.2593131
+S15-192-5,"Neelangarai ,Bharathiyar Nagar",Tenable,192,533,1905,15,"Neelangarai ,Bharathiyar Nagar, Ward 192, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9464389,80.2485111
+S15-192-4,"Neelangarai,Rajendran Nagar",Tenable,192,328,1238,15,"Neelangarai,Rajendran Nagar, Ward 192, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9491687,80.2545891
+S15-192-1,"Neelangarai,Mettu Colony",Un-tenable,192,67,204,15,"Neelangarai,Mettu Colony, Ward 192, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9492127,80.2546826
+S15-195-15,"Thuraipakkam ,Nehru Nagar",Tenable,195,145,508,15,"Thuraipakkam ,Nehru Nagar, Ward 195, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9304537,80.2300401
+S15-197-25,"Karapakkam, kadumbadi Nayakar Street",Tenable,197,79,263,15,"Karapakkam, kadumbadi Nayakar Street, Ward 197, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.8961034,80.2307602
+S15-197-24,"Solingahanallur,Grama Nedunsalai",Tenable,197,58,180,15,"Solingahanallur,Grama Nedunsalai, Ward 197, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9009877,80.2279301
+S15-197-23,"Solingahanallur,Nehru Street",Tenable,197,39,116,15,"Solingahanallur,Nehru Street, Ward 197, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9088931,80.2317031
+S15-197-22,"Solingahanallur,Gandhi Street",Tenable,197,44,129,15,"Solingahanallur,Gandhi Street, Ward 197, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9116356,80.2311675
+S15-197-26,"Karapakkam , Mahatma Gandhi Street",Tenable,197,23,70,15,"Karapakkam , Mahatma Gandhi Street, Ward 197, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.91349,80.229135
+S15-197-27,"Karapakkam,N S.K Street",Tenable,197,24,97,15,"Karapakkam,N S.K Street, Ward 197, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.91349,80.229135
+S15-197-21,Karapakkam,Tenable,197,49,178,15,"Karapakkam, Ward 197, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9190519,80.2300343
+S15-195-16,"Okkiyampettai , Pillaiyar Koil Street",Tenable,195,79,280,15,"Okkiyampettai , Pillaiyar Koil Street, Ward 195, SOZHANGANALLUR, Chennai, Tamil Nadu, India",12.9239752,80.2365417
