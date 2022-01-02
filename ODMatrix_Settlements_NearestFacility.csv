@@ -1,4 +1,4 @@
-s_id,s_nm,s_tenabili,s_wno,s_hh,s_pop,s_zno,s_addr,s_lat,s_lon,u_id,u_zno,u_wno,u_nm,u_addr,u_lat,u_lon,qneat_dist
+s_id,s_nm,s_tenability,s_wno,s_hh,s_pop,s_zno,s_addr,s_lat,s_lon,u_id,u_zno,u_wno,u_nm,u_addr,u_lat,u_lon,qneat_dist
 S1-3-34,Periya Kasi Koil Kuppam,Tenable,3,430,1493,1,"Periya Kasi Koil Kuppam, Ward 3, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.1987098,80.3178702,UPHC1,1,2,Kathivakkam,"Urban Primary Health Centre, Kathivakkam, No 3 392; Kathivakkam High Road; Ennore; Chennai  57",13.2161325,80.318177,2671.624352
 S1-2-11,ChinnaKuppam,Untenable,2,239,786,1,"ChinnaKuppam, Ward 2, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.2074625,80.3227456,UPHC1,1,2,Kathivakkam,"Urban Primary Health Centre, Kathivakkam, No 3 392; Kathivakkam High Road; Ennore; Chennai  57",13.2161325,80.318177,1552.803335
 S1-2-24,PeriyaKuppam,Untenable,2,280,918,1,"PeriyaKuppam, Ward 2, THIRUVOTRIYUR, Chennai, Tamil Nadu, India",13.2121605,80.324166,UPHC1,1,2,Kathivakkam,"Urban Primary Health Centre, Kathivakkam, No 3 392; Kathivakkam High Road; Ennore; Chennai  57",13.2161325,80.318177,1096.379136
